@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramzi Rihane</h1>
+# Hi 👋, I'm Ramzi Rihane
 **`Software Developer`**
 <h3 align="center">Second year master's student in computer science at FSEGS, Sfax. Excited to leverage academic expertise and a genuine passion for impactful contributions in the IT sector. Ready to take on challenges and contribute positively to the success of your team.</h3>
 
