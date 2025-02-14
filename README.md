@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ramzi Rihane
 **`Software Developer`**
-<h3 align="center">Second year master's student in computer science at FSEGS, Sfax. Excited to leverage academic expertise and a genuine passion for impactful contributions in the IT sector. Ready to take on challenges and contribute positively to the success of your team.</h3>
+<h3 align="center">I earned my Master’s degree in Computer Science from FSEGS, Sfax, and have built hands-on experience as a full-stack developer through various freelance projects. I also run the YouTube channel "DevJourney", where I enjoy sharing knowledge and inspiring others in the tech world. I’m passionate about solving real-world problems, creating innovative solutions, and being part of a team that drives meaningful impact.</h3>
 
 
 
